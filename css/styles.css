@@ -1,0 +1,151 @@
+.redes {
+  height: 60px;
+}
+
+footer {
+  margin-top: auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-family: 'Audiowide', cursive;
+}
+h2{
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+.redes {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 100px;
+  height: 50px;
+}
+
+.redes a {
+  color: #F5F5DC;
+
+}
+
+.bi-facebook {
+  height: 40px;
+}
+
+.card {
+
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
+.card-img-top {
+  height: 300px;
+
+}
+
+
+
+.card-img-top2 {
+  height: 30px;
+}
+
+.fuente {
+  color: aliceblue;
+}
+
+
+
+
+.text-small {
+  font-size: 0.9rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+.form-control {
+  background: #212529;
+  border-color: #545454;
+}
+
+.form-control:focus {
+  background: #212529;
+}
+
+footer {
+  background: #212529;
+}
+
+.container-fluid {
+  background: #212529;
+}
+
+
+/* ==========================================
+      CUSTOM UTILS CLASSES
+    ========================================== */
+body,
+html {
+  height: 100%;
+  padding: auto;
+}
+
+.nav-item a {
+  color: #F9F9F9;
+  font-family: 'Audiowide', cursive;
+  font-size:15px ;
+  margin-left: 10px;
+}
+
+.form-select{
+  margin-left: 15px;
+}
+
+.nav-itemFoo a {
+  color: #FFB72B;
+  text-decoration: none;
+}
+
+
+.lista {
+  color: #F9F9F9;
+}
+
+.select option{
+  font-family: 'Audiowide', cursive;
+}
+
+.seccionBlue{
+  color: white;
+  background-color: #366ED8;
+}
+
+.sobreMi {
+  
+  height: 400px;
+  padding: 10px;
+}
+
+.sobreMi .contenedor{
+  margin-top: 5%;
+max-width: 1350px;
+text-align: center;
+margin-left: 25%;
+margin-right: 25%;
+justify-content: center;
+}
+
+.seccionTexto{
+  font-size: 1.2rem;
+  
+}
+
+
